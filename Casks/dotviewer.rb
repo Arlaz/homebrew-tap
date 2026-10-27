@@ -27,5 +27,4 @@ cask "dotviewer" do
     "~/Library/Preferences/com.stianlars1.dotViewer.plist",
     "~/Library/Saved Application State/com.stianlars1.dotViewer.savedState",
   ]
-
 end
